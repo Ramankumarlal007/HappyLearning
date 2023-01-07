@@ -1,0 +1,11 @@
+#this is a comment
+
+*.js
+node_modules/
+assets/vodeos/
+*mp4
+*mp3
+
+
+# ignore all js file but not hte below
+!app.js

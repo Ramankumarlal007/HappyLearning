@@ -7,5 +7,7 @@ assets/vodeos/
 *mp3
 
 
-# ignore all js file but not hte below
+# ignore all js file but not tte below
 !app.js
+
+*.php

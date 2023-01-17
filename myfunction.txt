@@ -4,3 +4,7 @@ Three function - i have added a unnecessary important function.
 
 new function added.
 newer function added.
+
+added a chart function in our branch new_chart.
+
+added a chart function in our branch new_chart.

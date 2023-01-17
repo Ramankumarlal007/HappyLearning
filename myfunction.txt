@@ -1,6 +1,7 @@
-One function - i have added a very important function.
+One function - i have added a very important logout function.
 Two function - i have added a very another important function.
 Three function - i have added a unnecessary important function.
+forth function : function of logout added.
 
 new function added.
 newer function added.
@@ -8,3 +9,6 @@ newer function added.
 added a chart function in our branch new_chart.
 
 added a chart function in our branch new_chart.
+
+
+logout feature added.
